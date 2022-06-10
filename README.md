@@ -1,4 +1,4 @@
 # CLA
-## Bootstrap
+(Bootstrap)
 
 https://kot-vmeshke.github.io/CLA/
