@@ -1,0 +1,7 @@
+.navbar-dark .navbar-brand {
+  color: #c62c45;
+}
+.hero {
+  background: linear-gradient(rgb(0 0 0 / 80%) 0%, rgb(0 0 0 / 80%) 100%),
+    url("../img/header-bg.jpg") no-repeat center / cover;
+}
